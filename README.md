@@ -54,7 +54,7 @@ Go to Admin Panel -> Agents and click "Add new agent". Create name and email. Pr
 <img src="https://github.com/chrisrraP/post-install-config/blob/main/Config%20SLA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Agent Panel > Users > and click on "Add user". Create name, email and password. Click "Add User".
+Go to Admin Panel > Manage > SLA and click "add new SLA plan". Place these settings for Sev-A: (1 hour, 24/7). Sev-B will be (4 hours, 24/7) and Sev-C will be (8 hours, Monday - Friday).
 </p>
 <br />
 
