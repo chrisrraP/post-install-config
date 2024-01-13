@@ -46,7 +46,7 @@ Go to Admin Panel > Agents > Departments, Name the department and select a manag
 <img src="https://github.com/chrisrraP/post-install-config/blob/main/Config%20Agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Admin Panel -> Agents and click "Add new agent". Create name and email. Press the set password button. Deselect the "Send the agent a password reset" box and create a password. Deselect the "require password change" box and press "set". Add another
+Go to Admin Panel -> Agents and click "Add new agent". Create name and email. Press the set password button. Deselect the "Send the agent a password reset" box and create a password. Deselect the "require password change" box and press "set". Click on "Access" tab and select "System Administrators". Also select the department you created. In extended access below, select the department you created and add "support" department as well. Next, click on "teams" tab and select the team you created. Click "Create". Add another agent with limited permissions. To create users, go to Agent Panel > Users > and click on "Add user". Create name, email and password. Click "Add User".
 </p>
 <br />
 
@@ -54,7 +54,7 @@ Go to Admin Panel -> Agents and click "Add new agent". Create name and email. Pr
 <img src="https://github.com/chrisrraP/post-install-config/blob/main/Config%20SLA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Agent Panel > Users > and click on "Add user". Create name, email and password. Click "Add User".
 </p>
 <br />
 
