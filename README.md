@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/chrisrraP/post-install-config/blob/main/Add%20Role.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To configure roles, go to: Admin Panel -> Agents -> Roles. Add role. Name it and enable all ticket permissions.
+To configure roles, go to: Admin Panel > Agents > Roles. Add role. Name it and enable all ticket permissions.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ To configure roles, go to: Admin Panel -> Agents -> Roles. Add role. Name it and
 <img src="https://github.com/chrisrraP/post-install-config/blob/main/Create%20Department.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Admin Panel > Agents > Departments, Name the department and select a manager. Click "Creat Dept". Next, go to Admin Panel -> Agents -> Teams. Select "Add team". Name it "Level II Support" and add member by clicking on "Members" tab. Go to Admin Panel > Settings > User Settings to make sure that the registration required box is not checked.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://github.com/chrisrraP/post-install-config/blob/main/Config%20Agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Admin Panel -> Agents and click "Add new agent". Create name and email. Press the set password button. Deselect the "Send the agent a password reset" box and create a password. Deselect the "require password change" box and press "set". Add another
 </p>
 <br />
 
