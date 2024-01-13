@@ -62,7 +62,7 @@ Go to Admin Panel > Manage > SLA and click "add new SLA plan". Place these setti
 <img src="https://github.com/chrisrraP/post-install-config/blob/main/Create%20Help%20Topic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Go to Admin Panel > Manage > Help Topics and click "Add help topic". Title the first one "Business Critical Outage", the second "Personal Computer Issues", the third "Equipment Request", and lastly "Password Reset". Log into the user portal of osTicket at: http://localhost/osTicket/. Use a user you created to create tickets.
 </p>
 <br />
 
