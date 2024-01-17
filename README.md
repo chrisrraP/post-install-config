@@ -35,7 +35,7 @@ To configure roles, go to: Admin Panel > Agents > Roles. Add role. Name it and e
 <br />
 
 <p>
-<img src="https://github.com/chrisrraP/post-install-config/blob/main/Create%20Department.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2CTnRRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to Admin Panel > Agents > Departments, Name the department and select a manager. Click "Creat Dept". Next, go to Admin Panel -> Agents -> Teams. Select "Add team". Name it "Level II Support" and add member by clicking on "Members" tab. Go to Admin Panel > Settings > User Settings to make sure that the registration required box is not checked.
