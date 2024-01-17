@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://github.com/chrisrraP/post-install-config/blob/main/Add%20Role.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ufs9DZo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To configure roles, go to: Admin Panel > Agents > Roles. Add role. Name it and enable all ticket permissions.
